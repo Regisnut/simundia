@@ -1,15 +1,5 @@
 <h1 align="center">
-<img
-		width="250"
-		alt="Simundia logo"
-		src="https://github.com/Regisnut/simundia/blob/master/assets/logo.png">
-</h1>
-
-<h1 align="center">
-<img
-		width="250"
-		alt="Simundia logo"
-		src="https://github.com/Regisnut/simundia/blob/master/assets/capture.png">
+Simundia
 </h1>
 
 ## Overview
@@ -28,7 +18,7 @@ This project is Simundia webapp' webview **[www.simundia.com](https://www.simund
 <img
 		width="210"
 		alt="Capture 1"
-		src="https://github.com/Regisnut/simundia/blob/master/assets/capture1.png">
+		src="https://github.com/Regisnut/simundia/blob/master/assets/capture.png">
 </p>
 
 ## Installation and usage
